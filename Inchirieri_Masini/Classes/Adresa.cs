@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.IO;
 namespace Inchirieri
 {
-    internal class Adresa
+    public class Adresa
     {
         private string strada;
         private string localitate;
@@ -63,8 +63,62 @@ namespace Inchirieri
             strada = _strada;
             numar = _numar;
             cod_postal = _cod_postal;
-
+        }
+        public void CitireAdresaTastatura()
+        {
+            Console.Write("Localitatea:  ");
+            localitate = Console.ReadLine();
+            Console.Write("Judet:  ");
+            judet = Console.ReadLine();
+            Console.Write("Tara:  ");
+            tara = Console.ReadLine();
+            Console.Write("Strada:  ");
+            strada = Console.ReadLine();
+            Console.Write("Cod postal:  ");
+            cod_postal = Console.ReadLine();
+            Console.Write("Numar:  ");
+            numar = Console.ReadLine();
+        }
+        public string AfisareAdresa()
+        {
+            // return "Localitate\tJudet   \tTara \t    Strada \t   Cod postal \t   Numar  \n--------------------------------------------------------------------------------\n" + Localitate + "\t\t" + Judet + "\t\t" + Tara + "\t\t" + Strada + "\t\t" + Cod_postal +"\t\t" + Numar + "\n";
+            return Localitate + "\t " + Judet + "\t " + Tara + "\t" + Strada + "\t" + Cod_postal + "\t" + Numar + "\n";
         }
 
+        public void ScriereAdresaFisier()
+        {
+            StreamWriter outputFile = File.CreateText("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\proiect-piu\\Fisiere text\\Adresa.txt");
+            outputFile.Write(localitate + " ");
+            outputFile.Write(judet + " ");
+            outputFile.Write(tara + " ");
+            outputFile.Write(strada + " ");
+            outputFile.Write(cod_postal + " "); 
+            outputFile.WriteLine(numar);
+            outputFile.Close();
+        }
+
+        public Adresa CitireAdresaFisier()
+        {
+            Adresa adresa = new Adresa();
+            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\proiect-piu\\Fisiere text\\Adresa.txt"))
+            {
+                string linieFisier;
+                while ((linieFisier = streamReader.ReadLine()) != null)
+                {
+                    var valoare_fisier = linieFisier.Split(' ');
+                    localitate = valoare_fisier[0];
+                    judet = valoare_fisier[1];
+                    tara = valoare_fisier[2];
+                    strada = valoare_fisier[3];
+                    cod_postal = valoare_fisier[4];
+                    numar = valoare_fisier[5];
+                    adresa = new Adresa(localitate, judet, tara, strada, cod_postal, numar);
+                    if (adresa.localitate == localitate && adresa.judet == judet && adresa.tara == tara && adresa.strada == strada && adresa.cod_postal == cod_postal && adresa.numar == numar)
+                        return adresa;
+                }
+            }
+            Adresa adresa_invalid = new Adresa();
+            return adresa_invalid;
+        }
     }
 }
