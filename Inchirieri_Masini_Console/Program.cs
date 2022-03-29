@@ -36,16 +36,12 @@ Console.WriteLine(m2.AfisareMasina());
 Masina masina = new Masina();
 Console.WriteLine(masina.CautaMasini("Volvo"));
 
-
-
-
      // Data 
 d1.CitireDataTastatura();
 d1.ScriereDataFisier();
 d2.CitireDataFisier();
 Console.WriteLine(d1.AfisareData());
 Console.WriteLine(d2.AfisareData());
-
 
       //Adresa
 a1.CitireAdresaTastatura();
