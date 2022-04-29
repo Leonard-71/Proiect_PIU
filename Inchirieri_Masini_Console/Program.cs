@@ -18,7 +18,7 @@ Data      d2 = new Data();
 
 Adresa    a1 = new();
 Adresa    a2 = new();
-
+/*
 //  PERSOANA  
 p1.CitirePersoanaTastatura();
 p1.ScrierePersoaneFisier();
@@ -26,15 +26,26 @@ p2.CitirePersoanaFisier();
 Console.WriteLine(p1.AfisarePersoana());
 Console.WriteLine(p2.AfisarePersoana());
 
-   //  Masina 
-m1.CitireMasinaTastatura();
-m1.ScriereMasinaFisier();
-m2.CitireMasinaFisier();
-Console.WriteLine(m1.AfisareMasina());
-Console.WriteLine(m2.AfisareMasina());
+Persoana persoana = new Persoana();
+Console.WriteLine(persoana.CautaPersoana("Leonard"));
+*/
+//  Masina 
+//m1.CitireMasinaTastatura();
+//m1.ScriereMasinaFisier();
+//m2.CitireMasinaFisier();
+
+
 
 Masina masina = new Masina();
+Console.WriteLine(masina.AfisareMasina());
+/*
+Masina masina = new Masina();
+<<<<<<< Updated upstream
 Console.WriteLine(masina.CautaMasini("Volvo"));
+=======
+//Console.WriteLine(masina.CautaMasini("Volvo"));
+
+*/
 
      // Data 
 d1.CitireDataTastatura();

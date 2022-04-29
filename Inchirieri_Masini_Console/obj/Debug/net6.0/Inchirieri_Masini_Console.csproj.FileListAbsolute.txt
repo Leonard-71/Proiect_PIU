@@ -1,0 +1,62 @@
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfoInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfo.cs
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.deps.json
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.runtimeconfig.json
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe.config
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfoInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfo.cs
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CopyComplete
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\refint\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.genruntimeconfig.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\ref\Inchirieri_Masini_Console.dll
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.exe
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.deps.json
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.runtimeconfig.json
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.dll
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.pdb
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.pdb
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe.config
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfo.cs
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CopyComplete
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.dll
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\refint\Inchirieri_Masini_Console.dll
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.pdb
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.genruntimeconfig.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini_Console\obj\Debug\net6.0\ref\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.deps.json
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.runtimeconfig.json
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini_Console.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\bin\Debug\net6.0\Inchirieri_Masini.exe.config
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfoInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.AssemblyInfo.cs
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.csproj.CopyComplete
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\refint\Inchirieri_Masini_Console.dll
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\Inchirieri_Masini_Console.genruntimeconfig.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini_Console\obj\Debug\net6.0\ref\Inchirieri_Masini_Console.dll

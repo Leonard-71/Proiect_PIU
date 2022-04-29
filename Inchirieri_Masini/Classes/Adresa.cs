@@ -15,36 +15,13 @@ namespace Inchirieri
         private string cod_postal;
         private string numar;
 
-        public string Strada
-        {
-            get { return strada; }
-            set { strada = value; }
-        }
-        public string Localitate
-        {
-            get { return localitate; }
-            set { localitate = value; }
-        }
-        public string Tara
-        {
-            get { return tara; }
-            set { tara = value; }
-        }
-        public string Judet
-        {
-            get { return judet; }
-            set { judet = value; }
-        }
-        public string Cod_postal
-        {
-            get { return cod_postal; }
-            set { cod_postal = value; }
-        }
-        public string Numar
-        {
-            get { return numar; }
-            set { numar = value; }
-        }
+        public string Strada{get; set;}      
+        public string Localitate { get; set;}
+        public string Tara { get; set;}
+        public string Judet { get; set;}
+        public string Cod_postal { get; set;}
+        public string Numar { get; set; }
+
         public Adresa()
         {
             strada = "NULL";
@@ -64,6 +41,37 @@ namespace Inchirieri
             numar = _numar;
             cod_postal = _cod_postal;
         }
+
+        public enum Tari
+        {
+            Romania = 1,
+            Germania = 2,
+            Franta = 3,
+            Italia = 4,
+            Austria = 5,
+            Spania = 6
+        }
+
+        public enum Judete
+        {
+            Suceava = 1,
+            Iasi = 2,
+            Botosani = 3,
+            Constanta = 4,
+            Bacau = 5,
+            Bihor = 6,
+            Brasov = 7,
+            Cluj = 8,
+            Neamt = 9,
+            Prahova = 10,
+            Sibiu = 11,
+            Buzau = 12
+        }
+
+
+
+
+
         public void CitireAdresaTastatura()
         {
             Console.Write("Localitatea:  ");
@@ -81,13 +89,12 @@ namespace Inchirieri
         }
         public string AfisareAdresa()
         {
-            // return "Localitate\tJudet   \tTara \t    Strada \t   Cod postal \t   Numar  \n--------------------------------------------------------------------------------\n" + Localitate + "\t\t" + Judet + "\t\t" + Tara + "\t\t" + Strada + "\t\t" + Cod_postal +"\t\t" + Numar + "\n";
             return Localitate + "\t " + Judet + "\t " + Tara + "\t" + Strada + "\t" + Cod_postal + "\t" + Numar + "\n";
         }
 
         public void ScriereAdresaFisier()
         {
-            StreamWriter outputFile = File.CreateText("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect pe etape\\Etapa 2\\proiect-piu\\FisiereText\\Adresa.txt");
+            StreamWriter outputFile = File.CreateText("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\Rep_proiect\\Clona\\Proiect_PIU\\Inchirieri_Masini\\Fisiere_text\\adresa.txt");
             outputFile.Write(localitate + " ");
             outputFile.Write(judet + " ");
             outputFile.Write(tara + " ");
@@ -100,7 +107,7 @@ namespace Inchirieri
         public Adresa CitireAdresaFisier()
         {
             Adresa adresa = new Adresa();
-            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect pe etape\\Etapa 2\\proiect-piu\\FisiereText\\Adresa.txt"))
+            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\Rep_proiect\\Clona\\Proiect_PIU\\Inchirieri_Masini\\Fisiere_text\\Adresa.txt"))
             {
                 string linieFisier;
                 while ((linieFisier = streamReader.ReadLine()) != null)

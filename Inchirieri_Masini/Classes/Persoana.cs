@@ -13,23 +13,10 @@ namespace Inchirieri
         private string nume;
         private string prenume;
         private string cnp;
-        //Adresa adresa;
 
-        public string Nume
-        {
-            get { return nume; }
-            set { nume = value; }
-        }
-        public string Prenume
-        {
-            get { return prenume; }
-            set { prenume = value; }
-        }
-        private string Cnp
-        {
-            get { return cnp; }
-            set { cnp = value; }
-        }
+        public string Nume { get; set; }
+        public string Prenume { get; set; }
+        private string Cnp { get; set; }
 
         public Persoana()
         {
@@ -60,7 +47,7 @@ namespace Inchirieri
         }
         public void ScrierePersoaneFisier()
         {
-            StreamWriter outputFile = File.CreateText("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect pe etape\\Etapa 2\\proiect-piu\\FisiereText\\Persoane.txt");
+            StreamWriter outputFile = File.CreateText("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\Rep_proiect\\Clona\\Proiect_PIU\\Inchirieri_Masini\\Fisiere_text\\Persoane.txt");
             outputFile.Write(nume + " ");
             outputFile.Write(prenume + " ");
             outputFile.WriteLine(cnp);
@@ -69,7 +56,7 @@ namespace Inchirieri
         public Persoana CitirePersoanaFisier()
         {
             Persoana persoana = new Persoana( );
-            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect pe etape\\Etapa 2\\proiect-piu\\FisiereText\\Persoane.txt"))
+            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\Rep_proiect\\Clona\\Proiect_PIU\\Inchirieri_Masini\\Fisiere_text\\Persoane.txt"))
             {
                 string linieFisier;
                 while ((linieFisier = streamReader.ReadLine()) != null)
@@ -86,6 +73,23 @@ namespace Inchirieri
             Persoana persoana_invalid = new Persoana();
             return persoana_invalid; 
         }
+
+        public Persoana CautaPersoana(string persoanaCautata)
+        {
+            using (StreamReader streamReader = new StreamReader("E:\\Facultate\\ANUL 2\\SEMESTRUL 2\\Lab PIU-Gaza Felicia\\Proiect PIU-Filip Leonard\\Rep_proiect\\Clona\\Proiect_PIU\\Inchirieri_Masini\\Fisiere_text\\Persoane.txt"))
+            {
+                string linieFisier;
+                while ((linieFisier = streamReader.ReadLine()) != null)
+                {
+                    string[] valoareLinie = linieFisier.Split(' ');
+                    int comp = String.Compare(valoareLinie[0], persoanaCautata);
+                    if (comp == 0)
+                        Console.WriteLine(linieFisier);
+                }
+            }
+            return null;
+        }
+
 
     }
 }
