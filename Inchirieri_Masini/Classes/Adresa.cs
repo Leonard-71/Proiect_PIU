@@ -67,11 +67,7 @@ namespace Inchirieri
             Sibiu = 11,
             Buzau = 12
         }
-
-
-
-
-
+        
         public void CitireAdresaTastatura()
         {
             Console.Write("Localitatea:  ");
