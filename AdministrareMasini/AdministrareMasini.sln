@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministrareMasini", "AdministrareMasini\AdministrareMasini.csproj", "{129360CF-767C-4972-862C-26C597779384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129360CF-767C-4972-862C-26C597779384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129360CF-767C-4972-862C-26C597779384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129360CF-767C-4972-862C-26C597779384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129360CF-767C-4972-862C-26C597779384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A802476-E5E8-4203-99F0-80E50A8A9DAA}
+	EndGlobalSection
+EndGlobal

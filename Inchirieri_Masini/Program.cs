@@ -4,7 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Inchirieri_Masini
+using Inchirieri_Masini;
+
+namespace Inchirieri
 {
     internal static class Program
     {
@@ -14,10 +16,7 @@ namespace Inchirieri_Masini
         [STAThread]
         static void Main()
         {
-           /* Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Interfata());
-            */
+
         }
     }
 }

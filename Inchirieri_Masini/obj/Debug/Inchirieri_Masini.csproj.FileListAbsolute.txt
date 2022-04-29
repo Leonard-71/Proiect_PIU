@@ -1,0 +1,32 @@
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\proiect-piu\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.SuggestedBindingRedirects.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.SuggestedBindingRedirects.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.Properties.Resources.resources
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.GenerateResource.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe.config
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Proiect PIU-Filip Leonard\Rep_proiect\Clona\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.pdb
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe.config
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.pdb
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.Properties.Resources.resources
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.exe
+C:\Users\filip\Desktop\Proiect_PIU\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe.config
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\bin\Debug\Inchirieri_Masini.pdb
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.SuggestedBindingRedirects.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.Properties.Resources.resources
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.GenerateResource.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.exe
+E:\Facultate\ANUL 2\SEMESTRUL 2\Lab PIU-Gaza Felicia\Etape desfasurare Proiect\Etapa3\Inchirieri_Masini\obj\Debug\Inchirieri_Masini.pdb
